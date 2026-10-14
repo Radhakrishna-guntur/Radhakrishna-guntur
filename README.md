@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Radhakrishna Guntur</h1>
 <h3 align="center">A Passionate MLOps Expert from India</h3> 
-<img align = "right” alt="coding”  width="600" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJveIGlGq8d5DnxBKjw_RVOh6qkZfhry62gcA_gZ0RQ&s=10"> 
+<img align="right” alt="coding”width="400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJveIGlGq8d5DnxBKjw_RVOh6qkZfhry62gcA_gZ0RQ&s=10"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhakrishna-guntur&label=Profile%20views&color=0e75b6&style=flat" alt="radhakrishna-guntur" /> </p>
 - 🔭 I’m currently working on  Design, Build, and Maintain Scalable MLOps Platforms for Training, Deploying, Monitoring and Managing ML Models on AWS Cloud
 
